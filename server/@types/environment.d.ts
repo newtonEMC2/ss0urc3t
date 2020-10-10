@@ -6,7 +6,9 @@ declare global {
             NODE_ENV: string
             PORT: string
             PORT_TEST: string
-            SECRET: string
+            SECRET: string,
+            EMAIL_SERVICE_URL: string,
+            OWNER_EMAIL: string
         }
     }
 }
