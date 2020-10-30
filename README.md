@@ -1,6 +1,3 @@
-This exercice has been thougth to work in a miscroservices structure
-
-
 **I as an authenticated user can upload a CSV so that the owners of the system can
 process the data and mail the rider’s licenses**<br>
 
